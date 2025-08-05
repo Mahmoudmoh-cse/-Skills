@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm mahmoud_mohamed</h1>
-<h3 align="center"> Ai and data science student at AIU</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudmoh-cse&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudmoh-cse" /> </p>
 
 <h3 align="left">Connect with me:</h3>
